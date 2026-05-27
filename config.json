@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emailfalidate",
+        "uuid": 14992710,
+        "checksum": "ppnhv"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
